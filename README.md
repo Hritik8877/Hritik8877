@@ -2,7 +2,7 @@
 🚀 Full-Stack Developer | MERN Stack | Java | Problem Solver
 🚀 Passionate About DSA | Scalable Web Applications | Continuous Learner
 
-I'm a motivated B.Tech Computer Science student with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and Java. I thrive on full-stack development, problem-solving using DSA, and continuously learning new technologies to build scalable web applications.
+I'm a motivated B.Tech Computer Science student with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and Java. I thrive on full-stack development, problem-solving, and continuously learning new technologies to build scalable web applications.
 
 
 # 💫 About Me:
